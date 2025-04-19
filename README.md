@@ -1,0 +1,1 @@
+This repo provides different styles for showing the progress of a presentation. It is a Python script that receives a path and produces the final file. After completing your presentation, apply this script to it.
